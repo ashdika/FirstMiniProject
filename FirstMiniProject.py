@@ -2,7 +2,9 @@
 Module: PDE1130
 MISIS number: M00847293
 
-My first mini project about how users can get their passwords automatically generated using the given characters. Since mass population use social media, you can input the required number and length of the passwords to use them for various platforms on the internet or needed to change into different passwords to keep their data protected."""
+My first mini project about how users can get their passwords automatically generated using the given characters. 
+Since mass population use social media, you can easily input the required number and length of the passwords to use 
+them for various platforms on the internet or needed to change into different passwords to keep their data protected and other cybersecurity reasons."""
 
 import random
 
